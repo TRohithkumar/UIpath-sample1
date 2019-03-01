@@ -1,0 +1,38 @@
+{
+  "name": "new1",
+  "description": "new1",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.UIAutomation.Activities": "[19.1.0]",
+    "UiPath.System.Activities": "[18.4.2]",
+    "UiPath.Excel.Activities": "[2.5.1]",
+    "UiPath.Mail.Activities": "[1.3.0]",
+    "UiPath": "[10.0.6957.21531]",
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPathTeam.XLExcel.Activities": "[1.0.6814.30102]",
+    "UiPathTeam.XPathWebScrape.Activities": "[1.0.1]",
+    "UiPath.WebAPI.Activities": "[1.3.0]",
+    "UiPath.Database.Activities": "[1.2.6863.32528]",
+    "BalaReva.DataTable.Activities": "[1.1.0]",
+    "SQLiteDatabaseForUiPath": "[1.0.0]",
+    "Weissenberg.DataTable.Activities": "[1.0.2]",
+    "Excel_Extensions": "[1.0.17]",
+    "Custom.Activities.VariableComparer": "[2.1.6]",
+    "BalaReva.Excel.Activities": "[17.0.0]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.1.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
